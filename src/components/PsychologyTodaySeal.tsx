@@ -31,7 +31,7 @@ export function PsychologyTodaySeal() {
     >
       <img
         className="verified-pic"
-        src="/assets/pt.svg"
+        src="./assets/pt.svg"
         alt="Verified Psychology Today"
       />
     </a>
